@@ -1,6 +1,6 @@
-# roqqu
+# Roqqu
 
-A new Flutter project.
+A Flutter application that tracks real-time price change of BTC/USDT Pair using Binance websocket.
 
 ## Getting Started
 
